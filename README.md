@@ -1,2 +1,7 @@
 # mmc6145-02-02-brown-serena-
-Score
+
+Card game.
+
+### Final Result
+
+![Final](public/test.png "Passing")
